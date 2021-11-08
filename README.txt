@@ -20,6 +20,7 @@
 
 
 6. Run the .exe file, and it should automatically connect to your chat!
+ a.) If you are using the source version, run the bot with Node instead.
 
 
 
